@@ -1,0 +1,10 @@
+# PyQt6 is pinned as a matched trio. The newer 6.12.1 / sip 13.13.1 binaries were
+# blocked by Windows Smart App Control on the target machine; 6.10.2 is accepted.
+PyQt6==6.10.2
+PyQt6-Qt6==6.10.2
+PyQt6-sip==13.11.0
+mss==10.2.0
+Pillow==13.0.0
+keyboard==0.13.5
+google-genai==3.6.1
+python-dotenv==1.2.4
